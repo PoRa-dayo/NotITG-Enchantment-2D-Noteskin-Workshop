@@ -34,11 +34,12 @@ https://github.com/user-attachments/assets/9abdafea-57a1-4d88-9e17-d2163fdc0cb3
 - If you like what you have built in the "enchantment-custom-2d" folder, feel free to duplicate the folder and rename it to whatever you want. That way you can save your custom build, and use the "enchantment-custom-2d" folder to customize a new one!
 
 ## Special Thanks
+- [NowhereDanceClub](https://www.twitch.tv/nowheredanceclub) - I wouldn't have noticed the existence of such a beautiful noteskin without seeing your streams.
 - [EvocaitArt](https://x.com/EvocaitArt) - original Enchantment noteskin creator
 - [HURG](https://github.com/HURG-IIDX) - creator of the Enchantment V2 noteskin workshop and a bunch of other noteskins
 - MechMaelstrom - for guiding me on how to do all these noteskin things in NotITG, as well as for playtesting and feedback.
 - [Ky_Dash](https://www.youtube.com/@Ky_Dash) - for playtesting and giving feedback on the noteskin, and answering a bunch of questions I have about the game.
-- [Nhan](https://www.youtube.com/@StepNhan), [NotITGFan61](https://www.youtube.com/@notitgfan61) - for playtesting and giving feedback on the noteskin.
+- [Nhan](https://www.youtube.com/@StepNhan), [NotITGFan61](https://www.youtube.com/@notitgfan61) - for playtesting and giving feedback on the notes
 
 
 
