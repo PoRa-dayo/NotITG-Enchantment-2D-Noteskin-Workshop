@@ -1,3 +1,5 @@
+<img width="1200" height="558" alt="logo" src="https://github.com/user-attachments/assets/dca72e95-b11f-4c47-9f04-804c4913cc23" />
+
 A direct 2D NotITG port of [HURG's Noteskin-Workshop-Enchantment-V2 project for ITGMania](https://github.com/HURG-IIDX/Noteskin-Workshop-Enchantment-V2/tree/main).
 
 Check the 3D version [here](https://github.com/PoRa-dayo/NotITG-Enchantment-Noteskin-Workshop).
